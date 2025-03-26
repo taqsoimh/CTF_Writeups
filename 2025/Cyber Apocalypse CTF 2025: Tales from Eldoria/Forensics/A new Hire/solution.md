@@ -57,7 +57,7 @@ Encode URL để nhập vào Explorer: %5C%5C94.237.52.11@42286%5C3fe1690d955e8f
 Paste URL mới vào phần subquery để truy cập.
 ```
 
-Trong file `client.py` có một đoạn đã bị encrypt Base64
+Trong file `client.py` có một đoạn đã bị encode Base64
 `
 SFRCezRQVF8yOF80bmRfbTFjcjBzMGZ0X3MzNHJjaD0xbjF0MTRsXzRjYzNzISF9Cg==
 `
