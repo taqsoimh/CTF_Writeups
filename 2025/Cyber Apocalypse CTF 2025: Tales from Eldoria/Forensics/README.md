@@ -6,7 +6,7 @@
 <br>
 
 
-|                        TÊN                                | ĐỘ KHÓ [⭐⭐⭐⭐] |
+|                        NAME                               | DIFFICULTY [⭐⭐⭐⭐] |
 |-----------------------------------------------------------|-------------------------|
 | [A new Hire](A%20new%20Hire/solution.md)                  | ⭐ very easy |
 | [Thorin’s Amulet](Thorin%E2%80%99s%20Amulet/solution.md)  | ⭐ very easy |
