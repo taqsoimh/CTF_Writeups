@@ -1,7 +1,8 @@
 # Tales for the Brave 
 
 ### Details:
-
+In Eldoria, a once-innocent website called “Tales for the Brave” has become the focus of unsettling rumors. Some claim it may secretly trap unsuspecting visitors, leading them into a complex phishing scheme. Investigators report signs of encrypted communications and stealthy data collection beneath its friendly exterior. You must uncover the truth, and protect Eldoria from a growing threat.
+**When debugging JavaScript, ensure you use a Firefox-based browser.**
 
 ### Solution:
 
