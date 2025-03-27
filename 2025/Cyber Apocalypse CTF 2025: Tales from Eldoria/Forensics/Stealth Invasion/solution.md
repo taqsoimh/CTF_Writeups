@@ -86,11 +86,11 @@ strings file.0xa708caba14d0.0xa708c9d90d00.DataSectionObject.000003.log.dat
 
 Có vẻ malicious extention này ghi lại tiến trình ta gõ bàn phím để đánh cắp data. Ta nhìn đoạn đằng sau `selene@rangers.eldoria.com` thì đó là password
 
----
-
 ![image](assets/6.png)
 
-### Final flag
+---
+
+### Final Answer
 
 | Question | Flag |
 |---|----|
