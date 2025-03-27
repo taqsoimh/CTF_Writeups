@@ -102,7 +102,7 @@ Làm tương tự câu 5, ở TCP stream thứ 97, ta decrypt thông tin và có
 |---|----|
 | 1. What is the subject of the first email that the victim opened and replied to? | Game Crash on Level 5 | 
 | 2. On what date and time was the suspicious email sent? (Format: YYYY-MM-DD_HH:MM) | 2025-02-24_15:46 | 
-| 3. What is the MD5 hash of the malware file? | 2025-02-24_15:46 |
+| 3. What is the MD5 hash of the malware file? | c0b37994963cc0aadd6e78a256c51547 |
 | 4. What credentials were used to log into the attacker's mailbox? (Format: username:password) | `proplayer@email.com:completed` |
 | 5. What is the name of the task scheduled by the attacker? | Synchronization |
 | 6. What is the API key leaked from the highly valuable file discovered by the attacker? | sk-3498fwe09r8fw3f98fw9832fw |
