@@ -103,7 +103,7 @@ Ta tiến hành extract data từ 13.61.7.218:55155 và decrypt thông tin.
 tshark -r capture.pcap -Y "ip.addr == 13.61.7.218 && tcp.dstport == 55155" -T fields -e data.data > extract.data
 ```
 
-Và t đút vô CyberChef (xóa một số thông tin thừa ở đầu của extract.data đi) và tiến hành decrypt AES và có được file `pdf`
+Và t đút vô CyberChef (xóa một số thông tin thừa ở đầu và cuối của `extract.data` đi) và tiến hành decrypt AES và có được file `pdf`
 
 ![image](assets/10.png)
 
